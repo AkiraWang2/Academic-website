@@ -27,7 +27,7 @@ content:
   - name: All
     tag: '*'
   - name: White matter connectivity
-    tag: LGBTQ
+    tag: WMC
   - name: Suicide
     tag: Suicide
   - name: Ketamine on depression

@@ -1,53 +1,41 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# This file represents a page section.
+widget: blank
 headless: true
 
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
+# ... Put Your Section Options Here (title etc.) ...
+title: Awards
 subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: PhD Student
-    company: UNSW
-    company_url: ''
-    company_logo:
-    location: Sydney
-    date_start: '2018-02-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Research on effects of interruption in decision-making
-        * Tutor for "Research Methods"
-        
-  - title: Co-Founders UNSW CodeRs
-    company: UNSW
-    company_url: 'https://unsw-coders.netlify.app/'
-    company_logo: codeRs
-    location: Sydney
-    date_start: '2021-03-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Helped organize and estabish organization
-        * Built codeRs website
-
+weight: 55  # section position on page
 design:
-  columns: '2'
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
+<br/>
+<p>2022&nbsp;&nbsp;&nbsp;&nbsp;<b>Queer in AI Graduate Application Scholarship (USD 1,250)</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oSTEM & Queer in AI
+</p>
+
+<p>2022&nbsp;&nbsp;&nbsp;&nbsp;<b>American Academy of Clinical Neuropsychology Graduate Application Scholarship (USD 500)</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Awarded participation </b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Cross-disciplinary Scholars in Science and Technology Program at UCLA (canceled due to COVID-19)</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Bridget Callaghan, PhD
+</p>
+
+<p>2019&nbsp;&nbsp;&nbsp;&nbsp;<b>Rollins School of Public Health Merit Scholarship (USD 47,000) </b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emory University</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>2019&nbsp;&nbsp;&nbsp;&nbsp;<b>Merit Scholarship (USD 10,000) </b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale school of Public Health</p>
+
+<p>2018&nbsp;&nbsp;&nbsp;&nbsp;<b>Tomlinson Engagement Award for Mentoring (CAD 300)</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGill University</p>
+
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp;<b>First place award</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clinical Psychology Team at the McGill Psychology Research Case Competition</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;competed against UQAM, UDEM, and Concordia University
+</p>
