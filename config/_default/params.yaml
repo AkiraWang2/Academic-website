@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: custom
-day_night: false
+theme: rose
+day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,12 +20,12 @@ twitter: ''
 
 # Contact (edit or remove options as required) 
 
-email: j.sloane@student.unsw.edu.au
+email: akirawang918@gmail.com
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: Follow Me
-    link: 'https://twitter.com/jfsloane'
+    link: 'https://twitter.com/akirawang07'
 
 # Site header
 
