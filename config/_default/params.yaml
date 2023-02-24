@@ -13,10 +13,6 @@ font_size: M
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
 
 # Contact (edit or remove options as required) 
 
@@ -35,7 +31,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: False
   highlight_active_link: true
 
 # Localization
