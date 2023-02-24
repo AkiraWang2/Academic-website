@@ -40,8 +40,8 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/chenyang-akira-w-baa2a4175/   
-- icon: google
-  icon_pack: fab
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=gxIHyj4AAAAJ&view_op=list_works&gmla=AJsN-F6Hlgv13bQWJCcfdl_AdzJFl4A2Ig3vffwMi1Q-q-JTLRxElkR-vtJKn-aFmlvWoCZNSvzxf6ZCpKC2zcMGGiS-zAYgOD8k8JH3kzvNSwGd7BQFc2g/ 
 
 superuser: true
