@@ -28,7 +28,7 @@ content:
     tag: '*'
   - name: White matter connectivity
     tag: WMC
-  - name: Suicide
+  - name: Suicide risk
     tag: Suicide
   - name: Ketamine on depression
     tag: Ketamine
