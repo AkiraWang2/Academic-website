@@ -31,7 +31,7 @@ content:
   - name: Suicide
     tag: Suicide
   - name: Ketamine on depression
-    tag: Quantitative Modeling
+    tag: Ketamine
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
