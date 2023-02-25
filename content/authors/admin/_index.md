@@ -48,7 +48,7 @@ superuser: true
 title: Chenyang (Akira) Wang
 ---
 
-I am a PhD candidate in clinical and developmental psychology at the University of Minnesota, working with Dr. Sylia Wilson and other faculty members in the program. My research examines the biopsychosocial consequences of early life stress in children, with a particular focus on parental characteristics. I am particularly interested in using data-driven approaches and behavioral genetics to study how stress alter the normative trajectory of brain development, leveraging neuroimaging techniques to identify prodromal indicators of psychopathology.
+I am a PhD candidate in clinical and developmental psychology at the University of Minnesota, working with Dr. Sylia Wilson and other faculty members in the program. My research examines the biopsychosocial consequences of early life stress in children, with an emphasis on parental characteristics. I am particularly interested in using data-driven approaches and behavioral genetics to study how stress alter the normative trajectory of brain development, leveraging neuroimaging techniques to identify prodromal indicators of psychopathology.
 
 Pronouns: She/They
 
