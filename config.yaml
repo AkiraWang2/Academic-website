@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Akira Wang # Website name
-baseurl: 'chenyangakirawang.netlify.app/' # Website URL
+baseurl: 'chenyangakirawang.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
