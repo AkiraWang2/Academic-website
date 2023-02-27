@@ -13,7 +13,7 @@ authors:
 
 
 date: "2023-02-22T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jad.2023.02.099"
 featured: true
 
 publication: '*Journal of Affective Disorders* '
