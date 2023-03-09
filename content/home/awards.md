@@ -19,7 +19,7 @@ design:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Awarded participation </b><br/>
+<p>2020&nbsp;&nbsp;&nbsp;&nbsp;<b>Awarded participation </b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Cross-disciplinary Scholars in Science and Technology Program at UCLA (canceled due to COVID-19)</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Bridget Callaghan, PhD
 </p>

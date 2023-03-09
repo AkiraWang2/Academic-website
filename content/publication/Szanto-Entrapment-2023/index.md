@@ -24,6 +24,7 @@ publishDate: "2023-02-22T00:00:00Z"
 title: 'Entrapment and social problem-solving in suicidal behavior across the adult lifespan'
 url_code: ""
 url_dataset: ""
+url_pdf: uploads/Szanto-2023.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
