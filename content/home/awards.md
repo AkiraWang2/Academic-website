@@ -19,11 +19,6 @@ design:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p>2020&nbsp;&nbsp;&nbsp;&nbsp;<b>Awarded participation </b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the Cross-disciplinary Scholars in Science and Technology Program at UCLA (canceled due to COVID-19)</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Bridget Callaghan, PhD
-</p>
-
 <p>2019&nbsp;&nbsp;&nbsp;&nbsp;<b>Rollins School of Public Health Merit Scholarship (USD 47,000) </b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emory University</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,8 +29,3 @@ design:
 
 <p>2018&nbsp;&nbsp;&nbsp;&nbsp;<b>Tomlinson Engagement Award for Mentoring (CAD 300)</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGill University</p>
-
-<p>2017&nbsp;&nbsp;&nbsp;&nbsp;<b>First place award</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clinical Psychology Team at the McGill Psychology Research Case Competition</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;competed against UQAM, UDEM, and Concordia University
-</p>
