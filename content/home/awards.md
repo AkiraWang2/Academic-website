@@ -15,17 +15,18 @@ design:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oSTEM & Queer in AI
 </p>
 
-<p>2022&nbsp;&nbsp;&nbsp;&nbsp;<b>American Academy of Clinical Neuropsychology Graduate Application Scholarship (USD 500)</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>2022&nbsp;&nbsp;&nbsp;&nbsp;<b>Graduate School Application Scholarship (USD 500)</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Academy of Clinical Neuropsychology & New2Neuropsychology
 </p>
 
 <p>2019&nbsp;&nbsp;&nbsp;&nbsp;<b>Rollins School of Public Health Merit Scholarship (USD 47,000) </b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emory University</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>2019&nbsp;&nbsp;&nbsp;&nbsp;<b>Merit Scholarship (USD 10,000) </b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale school of Public Health</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale school of Public Health
+</p>
 
 <p>2018&nbsp;&nbsp;&nbsp;&nbsp;<b>Tomlinson Engagement Award for Mentoring (CAD 300)</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGill University</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGill University
+</p>
