@@ -24,7 +24,7 @@ design:
 </p>
 
 <p>2019&nbsp;&nbsp;&nbsp;&nbsp;<b>Merit Scholarship (USD 10,000) </b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale school of Public Health
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale School of Public Health
 </p>
 
 <p>2018&nbsp;&nbsp;&nbsp;&nbsp;<b>Tomlinson Engagement Award for Mentoring (CAD 300)</b><br/>
