@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: University of Minnesota
   url: 
-role: PhD Candidate
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
